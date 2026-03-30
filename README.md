@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+NAME:- SARISHA LAMBOR
+BRANCH:-B.TECH COMPUTER SCIENCE AND ENGNEERING(HEALTH INFORMATICS)
+YEAR:-2025
+I hope to learn how to apply machine learning algorithms to medical datasets to improve diagnostic accuracy and patient outcomes."I look forward to learn how to contribute to open-source healthcare software to help build more transparent and collaborative medical technologies.
 <!--
 **sarisha25bhi10077/sarisha25bhi10077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
